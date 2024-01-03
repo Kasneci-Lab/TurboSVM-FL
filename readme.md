@@ -43,7 +43,7 @@ Please dive into the `data` directory for further instructions.
 
 ## 📋 Citation
 If you use this code, please cite our paper:
-```
+```bibtex
 @inproceedings{wang2024turbosvm,
   title={TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients},
   author={Wang, Mengdi and Bodonhelyi, Anna and Bozkir, Efe and Kasneci, Enkelejda},
