@@ -36,7 +36,7 @@ Others:
 
 - We used the Python function `match` in our implementation. This function only exists for Python version >= 3.10. Please replace it with `if-elif-else` statement if needed.
 
-## 📰 Instructions on data preprocessing
+## 🗺 Instructions on data preprocessing
 We conducted experiments using three datasets: FEMNIST, CelebA, and Shakespeare (the Covid-19 dataset is not used anymore). The datasets can be obtained from https://leaf.cmu.edu/ together with bash code for reproducible data split.
 
 Please dive into the `data` directory for further instructions.

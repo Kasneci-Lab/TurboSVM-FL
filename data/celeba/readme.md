@@ -1,11 +1,11 @@
 # Data preprocessing for CelebA dataset
 
-## Source
+## 📋 Source
 https://github.com/TalwalkarLab/leaf/tree/master/data/celeba.
 
-## Steps
+## 🗺 Steps
 
-Please go through the following steps in Linux Python exvironment that has already installed `numpy` and `pillow` packages. If running in Windows Subsystem Linux (WSL or WSL2), please make sure `unzip` in installed beforehand, i.e. `sudo apt install unzip` for WSL2 Ubuntu.
+Please go through the following steps in Linux Python environment that has already installed `numpy` and `pillow` packages. If running in Windows Subsystem Linux (WSL or WSL2), please make sure `unzip` in installed beforehand, i.e. `sudo apt install unzip` for WSL2 Ubuntu.
 
 1. from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html, download or request the metadata files `identity_CelebA.txt` and `list_attr_celeba.txt`, and place them in `data/raw/` directory.
 

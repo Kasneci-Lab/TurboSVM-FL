@@ -1,9 +1,9 @@
 # (Obsolete) Data preprocessing for COVID-19 dataset
 
-## Source
+## 📋 Source
 https://github.com/abdkhanstd/COVID-19.
 
-## Steps
+## 🗺 Steps
 
 1. download jpg files from https://stduestceducn-my.sharepoint.com/:u:/g/personal/201714060114_std_uestc_edu_cn/ETJI_4PBgVpPu7StGZ0wbwwBJMADKC0sqA01983MRP1XDw?e=449hGe.
 

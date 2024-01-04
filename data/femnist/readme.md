@@ -1,11 +1,11 @@
 # Data preprocessing for FEMNIST dataset
 
-## Source
+## 📋 Source
 https://github.com/TalwalkarLab/leaf/tree/master/data/femnist.
 
-## Steps
+## 🗺 Steps
 
-Please go through the following steps in Linux Python exvironment that has already installed `numpy` and `pillow` packages. If running in Windows Subsystem Linux (WSL or WSL2), please make sure `unzip` in installed beforehand, i.e. `sudo apt install unzip` for WSL2 Ubuntu.
+Please go through the following steps in Linux Python environment that has already installed `numpy` and `pillow` packages. If running in Windows Subsystem Linux (WSL or WSL2), please make sure `unzip` in installed beforehand, i.e. `sudo apt install unzip` for WSL2 Ubuntu.
 
 1. git clone from https://github.com/TalwalkarLab/leaf/tree/master.
 
