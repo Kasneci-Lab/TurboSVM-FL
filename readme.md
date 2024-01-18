@@ -4,7 +4,7 @@
 > TurboSVM-FL is a novel federated learning algorithm that can greatly reduce the number of aggregation rounds needed to approach convergence for federated classifications tasks without any additional computation burden on the client side.
 
 ## 🖼️ Teaser
-<img src="https://github.com/wmd0701/TurboSVM-FL/assets/34072813/d40ea56b-faa0-4111-b5d7-eb0257da57c5" width="700">
+<img src="https://github.com/Kasneci-Lab/TurboSVM-FL/assets/34072813/906c82dd-e947-4217-a07a-27f2e120a615" width="700">
 
 ## 🗼 Pipeline
 The pipeline of TurboSVM-FL starts by trading client models in a model-as-sample strategy and fitting support vector machine (SVM) on these samples. Then, it carries out selective aggregation using only the class embeddings that form support vectors. Further, it conducts max-margin spread-out regularization on aggregated global representations that are projected back onto the SVM separation hyperplane. 
