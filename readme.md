@@ -49,5 +49,13 @@ If you use this code, please cite our paper:
   author={Wang, Mengdi and Bodonhelyi, Anna and Bozkir, Efe and Kasneci, Enkelejda},
   booktitle={Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)},
   year={2024}
+},
+@misc{wang2024turbosvmfl,
+      title={TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients}, 
+      author={Mengdi Wang and Anna Bodonhelyi and Efe Bozkir and Enkelejda Kasneci},
+      year={2024},
+      eprint={2401.12012},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
