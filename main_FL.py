@@ -23,7 +23,7 @@ def main_FL(args: object):
     train_clients, test_clients, global_model = get_clients_and_model(args)
 
     # wandb init
-    wandb.init(project = args.project, name = args.name, config = args.__dict__)
+    wandb.init(project = args.project, name = args.name, config = args.__dict__, anonymous = "allow")
     
     # federated learning
     federated_learning(args, train_clients, test_clients, global_model)
