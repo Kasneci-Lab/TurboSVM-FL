@@ -30,7 +30,7 @@ Important libraries and their versions by **January 25th, 2024**:
 | WandB | 0.16.2 |
 
 Others:
-- There is no requirement on OS for the experiment itself. However, to do data preprocessing, Python environment on Linux is needed. If data preprocessing is done in Windows Subsystem Linux (WSL or WSL2), please make sure `unzip` is installed beforehand, i.e. `sudo apt install unzip` for WSL2 Ubuntu.
+- There is no requirement on OS for the experiment itself. However, for data preprocessing, Python environment on Linux is desired. If data preprocessing is done in Windows Subsystem Linux (WSL or WSL2), please make sure `unzip` is installed beforehand, i.e. `sudo apt install unzip` for WSL2 Ubuntu.
 
 - We used **Weights & Bias** (https://wandb.ai/site) for figures instead of tensorboard. Please install and set up it properly beforehand.
 
