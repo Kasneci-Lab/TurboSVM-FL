@@ -32,12 +32,12 @@ Important libraries and their versions by **January 25th, 2024**:
 Others:
 - There is no requirement on OS for the experiment itself. However, for data preprocessing, Python environment on Linux is desired. If data preprocessing is done in Windows Subsystem Linux (WSL or WSL2), please make sure `unzip` is installed beforehand, i.e. `sudo apt install unzip` for WSL2 Ubuntu.
 
-- We used **Weights & Bias** (https://wandb.ai/site) for figures instead of tensorboard. Please install and set up it properly beforehand.
+- We used **[Weights & Bias](https://wandb.ai/site)** for figures instead of tensorboard. Please install and set up it properly beforehand.
 
 - We used the Python function `match` in our implementation. This function only exists for Python version >= 3.10. Please replace it with `if-elif-else` statement if needed.
 
 ## 🗺 Instructions on data preprocessing
-We conducted experiments using three datasets: FEMNIST, CelebA, and Shakespeare (the Covid-19 dataset is not used anymore). The datasets can be obtained from https://leaf.cmu.edu/ together with bash code for reproducible data split.
+We conducted experiments using three datasets: FEMNIST, CelebA, and Shakespeare (the Covid-19 dataset is not used anymore). The datasets can be obtained on [LEAF](https://leaf.cmu.edu/) together with bash code for reproducible data split.
 
 Please dive into the `data` directory for further instructions.
 
