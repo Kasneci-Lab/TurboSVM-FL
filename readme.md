@@ -44,19 +44,17 @@ Please dive into the `data` directory for further instructions.
 ## 📋 Citation
 If you use this code, please cite our paper:
 ```bibtex
-@misc{wang2024turbosvmfl,
-      title={TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients}, 
-      author={Mengdi Wang and Anna Bodonhelyi and Efe Bozkir and Enkelejda Kasneci},
-      year={2024},
-      eprint={2401.12012},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-},
-
-@inproceedings{wang2024turbosvm,
-  title={TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients},
-  author={Wang, Mengdi and Bodonhelyi, Anna and Bozkir, Efe and Kasneci, Enkelejda},
-  booktitle={Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)},
-  year={2024}
+@article{Wang_2024,
+   title={TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients},
+   volume={38},
+   ISSN={2159-5399},
+   url={http://dx.doi.org/10.1609/aaai.v38i14.29481},
+   DOI={10.1609/aaai.v38i14.29481},
+   number={14},
+   journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+   publisher={Association for the Advancement of Artificial Intelligence (AAAI)},
+   author={Wang, Mengdi and Bodonhelyi, Anna and Bozkir, Efe and Kasneci, Enkelejda},
+   year={2024},
+   month=mar, pages={15546–15554}
 }
 ```
